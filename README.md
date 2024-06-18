@@ -1,0 +1,1 @@
+This repository contains a comprehensive Power BI dashboard for HR data analytics. It includes various visualizations and metrics to provide insights into employee performance, attrition rates,satisfaction of job,gender basis analysis diversity, and other key HR metrics.
